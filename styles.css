@@ -96,7 +96,7 @@ li {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin-bottom: 5rem;
+	margin-bottom: 3.8rem;
 }
 
 .btn-submit {
@@ -115,4 +115,8 @@ li {
 	box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.115);
 	transition: 300ms;
 	transform: scale(1.1) translateZ(0px);
+}
+
+.clear {
+	margin-top: 2rem;
 }
